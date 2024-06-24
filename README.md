@@ -318,6 +318,12 @@
       * val emptyArr = Array<String>(3,{""})
 
 * ### 5.2.2 List,Set,Map
+ 
+  ![KakaoTalk_20240624_213845317](https://github.com/KimGyungSik/kotlin/assets/139200972/00a25427-8ef5-4b3c-a526-fb1eacef4802)
+  
+![KakaoTalk_20240624_214046016](https://github.com/KimGyungSik/kotlin/assets/139200972/ef1d03fe-1828-4917-963e-560a359a6611)
+
+
   * 코틀린에서 컬렉션 타입의 클래스들은 가변클래스와 불변클래스로 구분됨
   * 가변 클래스 : 컬렉션 타입의 객체에 데이터를 변경하거나 추가할 수 있음
   * 불변 클래스 : 한 번 데이터 대입이 끝난 객체를 읽기 전용으로 이용하는 정도
@@ -336,6 +342,7 @@
 * ### 자바 vs 코틀린
   * 코틀린에서는 모든 것이 객체이다
     * 자바에서는 래퍼 클래스를 제공
+    * ![KakaoTalk_20240624_220012017](https://github.com/KimGyungSik/kotlin/assets/139200972/0de81353-86fb-4639-af55-ee974608f93f)
   * 코틀린에서는 기초 데이터 타입에 대한 자동 캐스팅을 제공하지 않는다
   * 코틀린에는 switch-case 구문이 없다
   * 코틀린은 배열을 []로 선언하지 않으며 {}을 이용하여 초기화하지도 않는다
